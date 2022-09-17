@@ -1,0 +1,175 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Bcolor {
+    background-color: #222fd9;
+}
+
+.f1 {
+    font-family:  'system-ui', '-apple-system', 'BlinkMacSystemFont', 'Arial';
+}
+
+.head {
+    padding-top: 40px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.judul1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.connect {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.content {
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 40px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    -o-border-radius: 40px;
+}
+
+img.hptengah {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+
+.connectwarna {
+    color: #222fd9;
+}
+
+.f5 {
+    color: #a4497f;
+}
+
+.f2 {
+    color: #7084d5;
+}
+
+.f3 {
+    color: #99c5f6;
+}
+
+.f4 {
+    color: gray;
+}
+
+.isikonten {
+    background-color: #f3f5fe;
+    margin-top: 40px;
+    border-top: solid #a1a8f3;
+    border-bottom: solid #1f2fe2;
+}
+
+.isikonten img.isihp {
+    margin: 50px 30px 30px 60px;
+    float: left;
+}
+
+.tulisan {
+    margin-top: 70px;
+    font-size: 1.15em;
+    padding-right: 20px;
+}
+
+.teks1 {
+    margin-bottom: 45px;
+}
+
+.teks2 {
+    margin-bottom: 45px;
+}
+
+.teks3 {
+    margin-bottom: 70px;
+}
+
+.tanda {
+    color: #1f2fe2;
+}
+
+.profile {
+    background-color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.profile p {
+    font-size: 1.15em;
+}
+
+#searchprofile {
+    margin-bottom: 25px;
+}
+
+#clicklink {
+    margin-top: 25px;
+}
+
+.ourprofile {
+    display: flex;
+}
+
+
+.instagram {
+    background-color: #a4497f;
+    color: white;
+    width: 33.3%;
+    text-align: center;
+    padding: 30px;
+}
+
+.facebook {
+    background-color: #7084d5;
+    color: white;
+    width: 33.3%;
+    text-align: center;
+    padding: 30px;
+}
+
+.twitter {
+    background-color: #99c5f6;
+    color: white;
+    width: 33.5%;
+    text-align: center;
+    padding: 30px;
+}
+
+.ourprofile h4 {
+    margin-top: 10px;
+}
+
+.footer {
+    background-color: white;
+    text-align: center;
+    padding: 40px;
+    margin-bottom: 30px;
+    border-radius: 40px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    -o-border-radius: 40px;
+}
+
+.footer h2 {
+    color: #222fd9;
+}
+
+
+
+
+
+
